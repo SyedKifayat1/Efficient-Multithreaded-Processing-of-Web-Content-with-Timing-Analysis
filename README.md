@@ -162,5 +162,4 @@ This project is licensed under the MIT License.
 **Syed Kifayat Ur Rahman**  
 Front-End Developer | Web Services Specialist  
 **Maryam Aftab** 
-
 Computer Engineer | Developer
