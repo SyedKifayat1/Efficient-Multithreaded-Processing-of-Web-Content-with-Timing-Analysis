@@ -158,8 +158,14 @@ This project is licensed under the MIT License.
 
 ---
 
-## Author  
-**Syed Kifayat Ur Rahman**  
-Front-End Developer | Web Services Specialist  
-**Maryam Aftab**
-Computer Engineer | Developer
+
+## Authors  
+### **Syed Kifayat Ur Rahman**  
+- Front-End Developer  
+- Web Services Specialist  
+
+### **Maryam Aftab**  
+- Computer Engineer  
+- Developer  
+
+---  
