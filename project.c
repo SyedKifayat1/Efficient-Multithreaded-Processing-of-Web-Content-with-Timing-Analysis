@@ -323,7 +323,7 @@ void *process_urls(void *arg) {
     clock_gettime(CLOCK_MONOTONIC, &thread_start); // Start timing for the thread
 
     for (int i = args->start_idx; i < args->end_idx; i++) {
-        zclock_gettime(CLOCK_MONOTONIC, &start); // Start timing for a single URL fetch
+        clock_gettime(CLOCK_MONOTONIC, &start); // Start timing for a single URL fetch
 
         char *content = fetch_webpage(args->urls[i]);
 
